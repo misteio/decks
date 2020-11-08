@@ -1,0 +1,2 @@
+# decks
+Magic Decks
