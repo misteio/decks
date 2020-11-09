@@ -1,0 +1,37 @@
+4 [NPH:29] Blighted Agent
+4 [NPH:111] Glistener Elf
+4 [CON:87] Noble Hierarch
+2 [NPH:159] Spellskite
+2 [ROE:60] Distortion Strike
+4 [MH1:179] Scale Up
+1 [BFZ:192] Sylvan Scrying
+1 [KTK:130] Become Immense
+3 [KLD:146] Blossoming Defense
+1 [NPH:57] Dismember
+2 [WWK:104] Groundswell
+4 [TSP:204] Might of Old Krosa
+3 [NPH:116] Mutagenic Growth
+1 [XLN:81] Spell Pierce
+4 [ZEN:193] Vines of Vastwood
+1 [KLD:244] Botanical Sanctum
+2 [RNA:246] Breeding Pool
+1 [FUT:174] Dryad Arbor
+2 [M21:272] Forest
+4 [MBS:145] Inkmoth Nexus
+2 [ZEN:220] Misty Rainforest
+2 [TSB:120] Pendelhaven
+2 [ZEN:229] Verdant Catacombs
+2 [MH1:249] Waterlogged Grove
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+SB: 1 [NPH:159] Spellskite
+SB: 1 [NPH:57] Dismember
+SB: 1 [XLN:81] Spell Pierce
+SB: 2 [MH1:164] Force of Vigor
+SB: 2 [M20:227] Grafdigger's Cage
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [XLN:206] Shapers' Sanctuary
+SB: 3 [M20:198] Veil of Summer
+SB: 1 [MBS:94] Viridian Corrupter
+LAYOUT MAIN:(1,1)(NONE,false,50)|([NPH:29],[NPH:29],[NPH:29],[NPH:29],[NPH:111],[NPH:111],[NPH:111],[NPH:111],[CON:87],[CON:87],[CON:87],[CON:87],[NPH:159],[NPH:159],[ROE:60],[ROE:60],[MH1:179],[MH1:179],[MH1:179],[MH1:179],[BFZ:192],[KTK:130],[KLD:146],[KLD:146],[KLD:146],[NPH:57],[WWK:104],[WWK:104],[TSP:204],[TSP:204],[TSP:204],[TSP:204],[NPH:116],[NPH:116],[NPH:116],[XLN:81],[ZEN:193],[ZEN:193],[ZEN:193],[ZEN:193],[KLD:244],[RNA:246],[RNA:246],[FUT:174],[M21:272],[M21:272],[MBS:145],[MBS:145],[MBS:145],[MBS:145],[ZEN:220],[ZEN:220],[TSB:120],[TSB:120],[ZEN:229],[ZEN:229],[MH1:249],[MH1:249],[KTK:248],[KTK:249])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:159],[NPH:57],[XLN:81],[MH1:164],[MH1:164],[M20:227],[M20:227],[ELD:58],[ELD:58],[XLN:206],[XLN:206],[M20:198],[M20:198],[M20:198],[MBS:94])

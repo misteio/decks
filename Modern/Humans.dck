@@ -1,0 +1,24 @@
+4 [ISD:6] Champion of the Parish
+2 [IKO:187] General Kudro of Drannith
+4 [M21:107] Kitesail Freebooter
+4 [KTK:184] Mantis Rider
+4 [ARB:8] Meddling Mage
+4 [CON:87] Noble Hierarch
+4 [M12:72] Phantasmal Image
+4 [OGW:157] Reflector Mage
+3 [DKA:24] Thalia, Guardian of Thraben
+4 [SOI:43] Thalia's Lieutenant
+4 [DST:91] Aether Vial
+4 [CON:141] Ancient Ziggurat
+4 [AVR:226] Cavern of Souls
+4 [FUT:177] Horizon Canopy
+1 [M21:263] Island
+1 [M21:260] Plains
+1 [MH1:246] Silent Clearing
+4 [XLN:258] Unclaimed Territory
+SB: 4 [5DN:3] Auriok Champion
+SB: 2 [NPH:57] Dismember
+SB: 3 [FUT:101] Magus of the Moon
+SB: 3 [MH1:100] Plague Engineer
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ISD:6],[ISD:6],[ISD:6],[ISD:6],[IKO:187],[IKO:187],[M21:107],[M21:107],[M21:107],[M21:107],[KTK:184],[KTK:184],[KTK:184],[KTK:184],[ARB:8],[ARB:8],[ARB:8],[ARB:8],[CON:87],[CON:87],[CON:87],[CON:87],[M12:72],[M12:72],[M12:72],[M12:72],[OGW:157],[OGW:157],[OGW:157],[OGW:157],[DKA:24],[DKA:24],[DKA:24],[SOI:43],[SOI:43],[SOI:43],[SOI:43],[DST:91],[DST:91],[DST:91],[DST:91],[CON:141],[CON:141],[CON:141],[CON:141],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[FUT:177],[FUT:177],[FUT:177],[FUT:177],[M21:263],[M21:260],[MH1:246],[XLN:258],[XLN:258],[XLN:258],[XLN:258])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([5DN:3],[5DN:3],[5DN:3],[5DN:3],[NPH:57],[NPH:57],[FUT:101],[FUT:101],[FUT:101],[MH1:100],[MH1:100],[MH1:100])
