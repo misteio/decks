@@ -1,0 +1,72 @@
+1 [PZ2:70753] Loyal Apprentice
+1 [M10:125] Ball Lightning
+1 [BNG:108] Satyr Firedancer
+1 [ELD:115] Bonecrusher Giant
+1 [AKH:148] Soul-Scar Mage
+1 [AKH:117] Ahn-Crop Crasher
+1 [DTK:169] Zurgo Bellstriker
+1 [CON:65] Hellspark Elemental
+1 [PLC:122] Simian Spirit Guide
+1 [KTK:118] Monastery Swiftspear
+1 [SOI:155] Falkenrath Gorger
+1 [ELD:138] Robber of the Rich
+1 [DOM:129] Goblin Chainwhirler
+1 [SOI:181] Sin Prodder
+1 [HOU:90] Earthshaker Khenra
+1 [ZEN:126] Goblin Guide
+1 [KLD:199] Bomat Courier
+1 [KLD:121] Lathnu Hellion
+1 [M12:145] Grim Lavamancer
+1 [ELD:147] Torbran, Thane of Red Fell
+1 [MBS:66] Hero of Oxid Ridge
+1 [10E:237*] Spark Elemental
+1 [AKH:136] Hazoret the Fervent
+1 [THB:125] Anax, Hardened in the Forge
+1 [XLN:154] Rampaging Ferocidon
+1 [6ED:273] Ankh of Mishra
+1 [KLD:235] Smuggler's Copter
+1 [ZEN:119] Burst Lightning
+1 [M11:149] Lightning Bolt
+1 [SHM:92] Flame Javelin
+1 [M15:164] Stoke the Flames
+1 [M13:147] Searing Spear
+1 [SOM:91] Galvanic Blast
+1 [BNG:111] Searing Blood
+1 [THS:128] Magma Jet
+1 [HOU:83] Abrade
+1 [ELD:143] Slaying Fire
+1 [ALL:78] Pyrokinesis
+1 [ISD:132] Brimstone Volley
+1 [MOR:103] Shard Volley
+1 [NPH:86] Gut Shot
+1 [FRF:95] Collateral Damage
+1 [M21:159] Shock
+1 [M12:146] Incinerate
+1 [WAR:131] Heartfire
+1 [WWK:90] Searing Blaze
+1 [RNA:107] Light Up the Stage
+1 [CHK:178] Lava Spike
+1 [ORI:143] Exquisite Firecraft
+1 [MRD:101] Molten Rain
+1 [RNA:115] Skewer the Critics
+1 [SS3:3] Fiery Confluence
+1 [ODY:193] Firebolt
+1 [AER:88] Kari Zev's Expertise
+1 [CSP:96] Rite of Flame
+1 [ROE:146] Forked Bolt
+1 [EMN:123] Collective Defiance
+1 [LEG:137] Chain Lightning
+1 [TSP:176] Rift Bolt
+1 [AVR:149] Pillar of Flame
+1 [9ED:176] Blood Moon
+1 [DIS:71] Seal of Fire
+1 [GRN:99] Experimental Frenzy
+1 [M20:126] Chandra, Acolyte of Flame
+1 [ODY:313] Barbarian Ring
+1 [4ED:361] Mishra's Factory
+1 [ELD:239] Castle Embereth
+31 [ZNR:275] Mountain
+1 [PRM:62501] Abbot of Keral Keep
+SB: 1 [AER:87] Kari Zev, Skyship Raider
+LAYOUT MAIN:(1,1)(NONE,false,50)|([PZ2:70753],[M10:125],[BNG:108],[ELD:115],[AKH:148],[AKH:117],[DTK:169],[CON:65],[PLC:122],[KTK:118],[SOI:155],[ELD:138],[DOM:129],[SOI:181],[HOU:90],[ZEN:126],[KLD:199],[KLD:121],[M12:145],[ELD:147],[MBS:66],[10E:237*],[AKH:136],[THB:125],[XLN:154],[6ED:273],[KLD:235],[ZEN:119],[M11:149],[SHM:92],[M15:164],[M13:147],[SOM:91],[BNG:111],[THS:128],[HOU:83],[ELD:143],[ALL:78],[ISD:132],[MOR:103],[NPH:86],[FRF:95],[M21:159],[M12:146],[WAR:131],[WWK:90],[RNA:107],[CHK:178],[ORI:143],[MRD:101],[RNA:115],[SS3:3],[ODY:193],[AER:88],[CSP:96],[ROE:146],[EMN:123],[LEG:137],[TSP:176],[AVR:149],[9ED:176],[DIS:71],[GRN:99],[M20:126],[ODY:313],[4ED:361],[ELD:239],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[PRM:62501])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AER:87])

@@ -1,0 +1,90 @@
+1 [HOU:129] Ramunap Excavator
+1 [M21:173] Azusa, Lost but Seeking
+1 [SOI:233] Tireless Tracker
+1 [THB:169] Dryad of the Ilysian Grove
+1 [ZNR:178] Ancient Greenwarden
+1 [BNG:119] Courser of Kruphix
+1 [ZNR:193] Lotus Cobra
+1 [EMN:6] Emrakul, the Promised End
+1 [FUT:174] Dryad Arbor
+1 [M20:96] Dread Presence
+1 [RIX:151] World Shaper
+1 [ICE:350] Zuran Orb
+1 [M19:229] Crucible of Worlds
+1 [ZEN:201] Expedition Map
+1 [RTR:141] Abrupt Decay
+1 [RAV:82] Darkblast
+1 [MMQ:129] Dark Ritual
+1 [RAV:105] Shred Memory
+1 [AER:57] Fatal Push
+1 [ULG:98] Crop Rotation
+1 [NPH:57] Dismember
+1 [MBS:43] Go for the Throat
+1 [IKO:366] Heartless Act
+1 [GRN:152] Assassin's Trophy
+1 [M21:395] Eliminate
+1 [SUM:214] Regrowth
+1 [CMA:141] Restore
+1 [BFZ:192] Sylvan Scrying
+1 [ARB:92] Maelstrom Pulse
+1 [TSP:216] Search for Tomorrow
+1 [SUM:105] Demonic Tutor
+1 [9ED:273] Summer Bloom
+1 [SHM:57] Beseech the Queen
+1 [ORI:90] Dark Petition
+1 [FUT:144] Edge of Autumn
+1 [ROE:115] Inquisition of Kozilek
+1 [2XM:110] Toxic Deluge
+1 [THS:107] Thoughtseize
+1 [SOI:226] Seasons Past
+1 [HOU:120] Hour of Promise
+1 [EVE:41] Raven's Crime
+1 [M21:96] Duress
+1 [EMN:85] Collective Brutality
+1 [5ED:316] Nature's Lore
+1 [EMN:171] Splendid Reclamation
+1 [ME3:135] Three Visits
+1 [RAV:172] Life from the Loam
+1 [MBS:81] Green Sun's Zenith
+1 [USG:250] Exploration
+1 [VIS:137] Squandered Resources
+1 [ISD:104] Heartless Summoning
+1 [APC:114] Pernicious Deed
+1 [ISD:240] Ghost Quarter
+1 [DRK:117] Maze of Ith
+1 [WWK:132] Bojuka Bog
+1 [2XM:310] Ash Barrens
+1 [KTK:248] Windswept Heath
+1 [ONS:312] Barren Moor
+1 [KTK:239] Polluted Delta
+1 [M11:229] Terramorphic Expanse
+1 [ZNC:135] Myriad Landscape
+1 [ZEN:219] Marsh Flats
+1 [ODY:315] Cabal Pit
+1 [ONS:326] Tranquil Thicket
+1 [MMQ:319] Hickory Woodlot
+1 [WWK:145] Tectonic Edge
+1 [KTK:249] Wooded Foothills
+1 [TOR:139] Cabal Coffers
+1 [EXO:143] City of Traitors
+1 [J17:4] Homeward Path
+1 [MMQ:316] Dust Bowl
+1 [ZEN:229] Verdant Catacombs
+1 [SUM:283] Bayou
+1 [MMQ:322] Peat Bog
+1 [IKO:247] Evolving Wilds
+1 [6ED:322] Crystal Vein
+1 [ZEN:220] Misty Rainforest
+1 [KTK:230] Bloodstained Mire
+1 [EVE:180] Twilight Mire
+1 [MH1:243] Nurturing Peatland
+1 [ICE:353] Glacial Chasm
+1 [GRN:253] Overgrown Tomb
+1 [ELD:333] Command Tower
+1 [M15:248] Urborg, Tomb of Yawgmoth
+7 [ZNR:272] Swamp
+7 [ZNR:278] Forest
+1 [GRN:211] Underrealm Lich
+SB: 1 [SOI:245] The Gitrog Monster
+LAYOUT MAIN:(1,1)(NONE,false,50)|([HOU:129],[M21:173],[SOI:233],[THB:169],[ZNR:178],[BNG:119],[ZNR:193],[EMN:6],[FUT:174],[M20:96],[RIX:151],[ICE:350],[M19:229],[ZEN:201],[RTR:141],[RAV:82],[MMQ:129],[RAV:105],[AER:57],[ULG:98],[NPH:57],[MBS:43],[IKO:366],[GRN:152],[M21:395],[SUM:214],[CMA:141],[BFZ:192],[ARB:92],[TSP:216],[SUM:105],[9ED:273],[SHM:57],[ORI:90],[FUT:144],[ROE:115],[2XM:110],[THS:107],[SOI:226],[HOU:120],[EVE:41],[M21:96],[EMN:85],[5ED:316],[EMN:171],[ME3:135],[RAV:172],[MBS:81],[USG:250],[VIS:137],[ISD:104],[APC:114],[ISD:240],[DRK:117],[WWK:132],[2XM:310],[KTK:248],[ONS:312],[KTK:239],[M11:229],[ZNC:135],[ZEN:219],[ODY:315],[ONS:326],[MMQ:319],[WWK:145],[KTK:249],[TOR:139],[EXO:143],[J17:4],[MMQ:316],[ZEN:229],[SUM:283],[MMQ:322],[IKO:247],[6ED:322],[ZEN:220],[KTK:230],[EVE:180],[MH1:243],[ICE:353],[GRN:253],[ELD:333],[M15:248],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[GRN:211])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SOI:245])
