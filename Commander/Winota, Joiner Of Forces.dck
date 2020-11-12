@@ -1,0 +1,90 @@
+1 [M15:225] Phyrexian Revoker
+1 [ORI:157] Pia and Kiran Nalaar
+1 [KLD:124] Pia Nalaar
+1 [MH1:21] Ranger-Captain of Eos
+1 [MB1:192] Palace Jailer
+1 [PZ2:70753] Loyal Apprentice
+1 [IKO:21] Luminous Broodmoth
+1 [FUT:101] Magus of the Moon
+1 [M21:27] Mangara, the Diplomat
+1 [TSP:170] Mogg War Marshal
+1 [ULG:14] Mother of Runes
+1 [M19:33] Remorseful Cleric
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [EMN:46] Thalia, Heretic Cathar
+1 [SOI:43] Thalia's Lieutenant
+1 [RNA:27] Tithe Taker
+1 [DTK:169] Zurgo Bellstriker
+1 [WWK:20] Stoneforge Mystic
+1 [ELD:235] Stonecoil Serpent
+1 [BNG:27] Spirit of the Labyrinth
+1 [CHK:43] Samurai of the Pale Curtain
+1 [MH1:145] Seasoned Pyromancer
+1 [M21:36] Selfless Savior
+1 [EMN:40] Selfless Spirit
+1 [PLC:122] Simian Spirit Guide
+1 [DTK:2] Anafenza, Kin-Tree Spirit
+1 [KLD:199] Bomat Courier
+1 [GRN:2] Bounty Agent
+1 [PZ2:56] Bruse Tarl, Boorish Herder
+1 [ELD:335] Charming Prince
+1 [THB:125] Anax, Hardened in the Forge
+1 [ZNR:4] Archon of Emeria
+1 [AKH:5] Aven Mindcensor
+1 [M14:7] Banisher Priest
+1 [JUD:5] Benevolent Bodyguard
+1 [IKO:11] Drannith Magistrate
+1 [ALA:10] Ethersworn Canonist
+1 [M12:19] Grand Abolisher
+1 [WAR:130] Grim Initiate
+1 [MH1:224] Icehide Golem
+1 [CHK:19] Isamaru, Hound of Konda
+1 [ZNR:145] Kargan Intimidator
+1 [GRN:109] Legion Warboss
+1 [M15:145] Goblin Rabblemaster
+1 [M19:142] Goblin Instigator
+1 [ISD:15] Fiend Hunter
+1 [EVE:139] Figure of Destiny
+1 [MH1:13] Giver of Runes
+1 [GRN:103] Goblin Cratermaker
+1 [ZEN:126] Goblin Guide
+1 [TMP:294] Lotus Petal
+1 [DST:140] Skullclamp
+1 [MRD:199] Lightning Greaves
+1 [M20:34] Raise the Alarm
+1 [MMQ:44] Reverent Mantra
+1 [M11:149] Lightning Bolt
+1 [9ED:176] Blood Moon
+1 [XLN:22] Legion's Landing
+1 [MH1:10] Force of Virtue
+1 [TMP:179] Goblin Bombardment
+1 [M20:126] Chandra, Acolyte of Flame
+1 [SUM:284] Plateau
+1 [MH1:244] Prismatic Vista
+1 [HOU:181] Ramunap Ruins
+1 [C20:298] Path of Ancestry
+1 [JOU:163] Mana Confluence
+1 [4ED:361] Mishra's Factory
+1 [EVE:178] Rugged Prairie
+1 [MH1:247] Sunbaked Canyon
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [GRN:254] Sacred Foundry
+1 [ZEN:223] Scalding Tarn
+1 [ELD:239] Castle Embereth
+1 [8ED:322] City of Brass
+1 [DOM:239] Clifftop Retreat
+1 [KTK:230] Bloodstained Mire
+1 [DST:163] Blinkmoth Nexus
+1 [ZEN:211] Arid Mesa
+1 [ODY:313] Barbarian Ring
+1 [ORI:244] Battlefield Forge
+1 [ELD:333] Command Tower
+1 [KLD:246] Inspiring Vantage
+1 [KTK:233] Flooded Strand
+4 [CSP:154] Snow-Covered Mountain
+10 [CSP:151] Snow-Covered Plains
+1 [ZNR:263] Needleverge Pathway
+SB: 1 [IKO:216] Winota, Joiner of Forces
+LAYOUT MAIN:(1,1)(NONE,false,50)|([M15:225],[ORI:157],[KLD:124],[MH1:21],[MB1:192],[PZ2:70753],[IKO:21],[FUT:101],[M21:27],[TSP:170],[ULG:14],[M19:33],[DKA:24],[EMN:46],[SOI:43],[RNA:27],[DTK:169],[WWK:20],[ELD:235],[BNG:27],[CHK:43],[MH1:145],[M21:36],[EMN:40],[PLC:122],[DTK:2],[KLD:199],[GRN:2],[PZ2:56],[ELD:335],[THB:125],[ZNR:4],[AKH:5],[M14:7],[JUD:5],[IKO:11],[ALA:10],[M12:19],[WAR:130],[MH1:224],[CHK:19],[ZNR:145],[GRN:109],[M15:145],[M19:142],[ISD:15],[EVE:139],[MH1:13],[GRN:103],[ZEN:126],[TMP:294],[DST:140],[MRD:199],[M20:34],[MMQ:44],[M11:149],[9ED:176],[XLN:22],[MH1:10],[TMP:179],[M20:126],[SUM:284],[MH1:244],[HOU:181],[C20:298],[JOU:163],[4ED:361],[EVE:178],[MH1:247],[KTK:248],[KTK:249],[GRN:254],[ZEN:223],[ELD:239],[8ED:322],[DOM:239],[KTK:230],[DST:163],[ZEN:211],[ODY:313],[ORI:244],[ELD:333],[KLD:246],[KTK:233],[CSP:154],[CSP:154],[CSP:154],[CSP:154],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[CSP:151],[ZNR:263])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([IKO:216])
