@@ -1,0 +1,27 @@
+2 [ELD:281] Brazen Borrower
+2 [M20:76] Spectral Sailor
+3 [EMN:40] Selfless Spirit
+3 [ZNR:39] Skyclave Apparition
+4 [M20:208] Empyrean Eagle
+4 [EMN:189] Spell Queller
+4 [M19:76] Supreme Phantom
+4 [SOI:81] Rattlechains
+4 [EMN:69] Mausoleum Wanderer
+3 [M21:56] Lofty Denial
+4 [DTK:177] Collected Company
+1 [ORI:252] Yavimaya Coast
+1 [ZNR:269] Island
+2 [ZNR:266] Plains
+3 [RNA:246] Breeding Pool
+4 [XLN:255] Glacial Fortress
+4 [GRN:258] Temple Garden
+4 [RNA:251] Hallowed Fountain
+4 [KLD:244] Botanical Sanctum
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 2 [GRN:37] Disdainful Stroke
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [M19:33] Remorseful Cleric
+SB: 3 [RNA:165] Deputy of Detention
+SB: 4 [EMN:71] Nebelgast Herald
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ELD:281],[ELD:281],[M20:76],[M20:76],[EMN:40],[EMN:40],[EMN:40],[ZNR:39],[ZNR:39],[ZNR:39],[M20:208],[M20:208],[M20:208],[M20:208],[EMN:189],[EMN:189],[EMN:189],[EMN:189],[M19:76],[M19:76],[M19:76],[M19:76],[SOI:81],[SOI:81],[SOI:81],[SOI:81],[EMN:69],[EMN:69],[EMN:69],[EMN:69],[M21:56],[M21:56],[M21:56],[DTK:177],[DTK:177],[DTK:177],[DTK:177],[ORI:252],[ZNR:269],[ZNR:266],[ZNR:266],[RNA:246],[RNA:246],[RNA:246],[XLN:255],[XLN:255],[XLN:255],[XLN:255],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[RNA:251],[RNA:251],[RNA:251],[RNA:251],[KLD:244],[KLD:244],[KLD:244],[KLD:244])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([XLN:34],[XLN:34],[GRN:37],[GRN:37],[ELD:58],[ELD:58],[M19:33],[M19:33],[RNA:165],[RNA:165],[RNA:165],[EMN:71],[EMN:71],[EMN:71],[EMN:71])
