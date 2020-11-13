@@ -1,0 +1,29 @@
+2 [OGW:86] Kalitas, Traitor of Ghet
+2 [DGM:57] Blood Baron of Vizkopa
+3 [ELD:287] Murderous Rider
+4 [RIX:64] Champion of Dusk
+4 [RIX:70] Dusk Legion Zealot
+4 [AER:61] Gifted Aetherborn
+4 [M20:105] Knight of the Ebon Legion
+2 [M21:102] Grasp of Darkness
+4 [AER:57] Fatal Push
+4 [THS:107] Thoughtseize
+4 [M20:115] Sorin, Imperious Bloodlord
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ORI:245] Caves of Koilos
+2 [DOM:241] Isolated Chapel
+2 [M14:228] Mutavault
+3 [ELD:241] Castle Locthwain
+4 [KLD:245] Concealed Courtyard
+4 [RNA:248] Godless Shrine
+7 [ZNR:272] Swamp
+SB: 1 [KLD:88] Lost Legacy
+SB: 2 [M20:110] Noxious Grasp
+SB: 2 [THB:83] Agonizing Remorse
+SB: 2 [DOM:213] Damping Sphere
+SB: 2 [M20:13] Devout Decree
+SB: 2 [ORI:103] Infinite Obliteration
+SB: 2 [M20:106] Legion's End
+SB: 2 [M20:107] Leyline of the Void
+LAYOUT MAIN:(1,1)(NONE,false,50)|([OGW:86],[OGW:86],[DGM:57],[DGM:57],[ELD:287],[ELD:287],[ELD:287],[RIX:64],[RIX:64],[RIX:64],[RIX:64],[RIX:70],[RIX:70],[RIX:70],[RIX:70],[AER:61],[AER:61],[AER:61],[AER:61],[M20:105],[M20:105],[M20:105],[M20:105],[M21:102],[M21:102],[AER:57],[AER:57],[AER:57],[AER:57],[THS:107],[THS:107],[THS:107],[THS:107],[M20:115],[M20:115],[M20:115],[M20:115],[M15:248],[ORI:245],[DOM:241],[DOM:241],[M14:228],[M14:228],[ELD:241],[ELD:241],[ELD:241],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[RNA:248],[RNA:248],[RNA:248],[RNA:248],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KLD:88],[M20:110],[M20:110],[THB:83],[THB:83],[DOM:213],[DOM:213],[M20:13],[M20:13],[ORI:103],[ORI:103],[M20:106],[M20:106],[M20:107],[M20:107])

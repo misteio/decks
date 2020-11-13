@@ -1,0 +1,28 @@
+3 [GTC:150] Cartel Aristocrat
+3 [WAR:188] Cruel Celebrant
+3 [IKO:220] Fiend Artisan
+3 [IKO:14] Garrison Cat
+4 [GRN:15] Hunted Witness
+4 [RNA:83] Priest of Forgotten Gods
+4 [IKO:99] Serrated Scorpion
+4 [M19:121] Stitcher's Supplier
+4 [BFZ:126] Zulaport Cutthroat
+3 [M21:126] Village Rites
+4 [FRF:22] Rally the Ancestors
+2 [JOU:163] Mana Confluence
+3 [ZNR:266] Plains
+4 [KLD:245] Concealed Courtyard
+4 [ZNR:272] Swamp
+4 [ORI:245] Caves of Koilos
+4 [RNA:248] Godless Shrine
+SB: 1 [M21:395] Eliminate
+SB: 1 [M19:33] Remorseful Cleric
+SB: 1 [IKO:226] Lurrus of the Dream-Den
+SB: 1 [ORI:12] Enlightened Ascetic
+SB: 1 [IKO:83] Dead Weight
+SB: 2 [THB:237] Soul-Guide Lantern
+SB: 2 [IKO:183] Dire Tactics
+SB: 3 [KLD:14] Fragmentize
+SB: 3 [THS:107] Thoughtseize
+LAYOUT MAIN:(1,1)(NONE,false,50)|([GTC:150],[GTC:150],[GTC:150],[WAR:188],[WAR:188],[WAR:188],[IKO:220],[IKO:220],[IKO:220],[IKO:14],[IKO:14],[IKO:14],[GRN:15],[GRN:15],[GRN:15],[GRN:15],[RNA:83],[RNA:83],[RNA:83],[RNA:83],[IKO:99],[IKO:99],[IKO:99],[IKO:99],[M19:121],[M19:121],[M19:121],[M19:121],[BFZ:126],[BFZ:126],[BFZ:126],[BFZ:126],[M21:126],[M21:126],[M21:126],[FRF:22],[FRF:22],[FRF:22],[FRF:22],[JOU:163],[JOU:163],[ZNR:266],[ZNR:266],[ZNR:266],[KLD:245],[KLD:245],[KLD:245],[KLD:245],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ORI:245],[ORI:245],[ORI:245],[ORI:245],[RNA:248],[RNA:248],[RNA:248],[RNA:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M21:395],[M19:33],[IKO:226],[ORI:12],[IKO:83],[THB:237],[THB:237],[IKO:183],[IKO:183],[KLD:14],[KLD:14],[KLD:14],[THS:107],[THS:107],[THS:107])

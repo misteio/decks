@@ -1,0 +1,39 @@
+4 [STH:138] Mox Diamond
+1 [ZEN:142] Punishing Fire
+2 [RTR:141] Abrupt Decay
+2 [M11:149] Lightning Bolt
+4 [ULG:98] Crop Rotation
+4 [RAV:172] Life from the Loam
+2 [5ED:329] Sylvan Library
+2 [ZNR:175] Valakut Exploration
+4 [USG:250] Exploration
+1 [ISD:240] Ghost Quarter
+1 [AKH:244] Grasping Dunes
+1 [LEG:303] Karakas
+1 [MH1:243] Nurturing Peatland
+1 [LEG:307] The Tabernacle at Pendrell Vale
+1 [ZEN:229] Verdant Catacombs
+1 [KTK:248] Windswept Heath
+1 [KTK:249] Wooded Foothills
+1 [ZNR:278] Forest
+1 [WWK:132] Bojuka Bog
+1 [WAR:244] Blast Zone
+2 [SUM:287] Taiga
+2 [DRK:117] Maze of Ith
+2 [FUT:176] Grove of the Burnwillows
+2 [SUM:283] Bayou
+2 [M20:247] Field of the Dead
+3 [MMQ:324] Rishadan Port
+3 [CSP:145] Dark Depths
+4 [TMP:330] Wasteland
+4 [GTC:248] Thespian's Stage
+SB: 1 [NPH:74] Surgical Extraction
+SB: 1 [GRN:99] Experimental Frenzy
+SB: 1 [5ED:262] Pyroblast
+SB: 2 [ZEN:57] Mindbreak Trap
+SB: 2 [4ED:218] Red Elemental Blast
+SB: 2 [8ED:237] Choke
+SB: 2 [MH1:164] Force of Vigor
+SB: 4 [EXO:139] Sphere of Resistance
+LAYOUT MAIN:(1,1)(NONE,false,50)|([STH:138],[STH:138],[STH:138],[STH:138],[ZEN:142],[RTR:141],[RTR:141],[M11:149],[M11:149],[ULG:98],[ULG:98],[ULG:98],[ULG:98],[RAV:172],[RAV:172],[RAV:172],[RAV:172],[5ED:329],[5ED:329],[ZNR:175],[ZNR:175],[USG:250],[USG:250],[USG:250],[USG:250],[ISD:240],[AKH:244],[LEG:303],[MH1:243],[LEG:307],[ZEN:229],[KTK:248],[KTK:249],[ZNR:278],[WWK:132],[WAR:244],[SUM:287],[SUM:287],[DRK:117],[DRK:117],[FUT:176],[FUT:176],[SUM:283],[SUM:283],[M20:247],[M20:247],[MMQ:324],[MMQ:324],[MMQ:324],[CSP:145],[CSP:145],[CSP:145],[TMP:330],[TMP:330],[TMP:330],[TMP:330],[GTC:248],[GTC:248],[GTC:248],[GTC:248])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:74],[GRN:99],[5ED:262],[ZEN:57],[ZEN:57],[4ED:218],[4ED:218],[8ED:237],[8ED:237],[MH1:164],[MH1:164],[EXO:139],[EXO:139],[EXO:139],[EXO:139])

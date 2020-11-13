@@ -1,0 +1,29 @@
+2 [HOU:40] Nimble Obstructionist
+4 [IKO:13] Flourishing Fox
+2 [XLN:34] Settle the Wreckage
+4 [RTR:145] Azorius Charm
+4 [AKH:46] Censor
+4 [AKH:57] Hieroglyphic Illumination
+4 [IKO:59] Neutralize
+4 [IKO:217] Zenith Flare
+4 [AKH:8] Cast Out
+4 [IKO:319] Shark Typhoon
+1 [ZNR:266] Plains
+1 [RNA:251] Hallowed Fountain
+2 [DOM:247] Sulfur Falls
+2 [ELD:242] Castle Vantress
+3 [ZNR:269] Island
+3 [IKO:251] Raugrin Triome
+4 [GRN:254] Sacred Foundry
+4 [AKH:245] Irrigated Farmland
+4 [XLN:255] Glacial Fortress
+SB: 1 [IKO:233] Zirda, the Dawnwaker
+SB: 2 [XLN:34] Settle the Wreckage
+SB: 2 [EMN:13] Blessed Alliance
+SB: 2 [WAR:193] Dovin's Veto
+SB: 2 [THB:214] Dream Trawler
+SB: 2 [THS:15] Glare of Heresy
+SB: 2 [ELD:58] Mystical Dispute
+SB: 2 [THB:237] Soul-Guide Lantern
+LAYOUT MAIN:(1,1)(NONE,false,50)|([HOU:40],[HOU:40],[IKO:13],[IKO:13],[IKO:13],[IKO:13],[XLN:34],[XLN:34],[RTR:145],[RTR:145],[RTR:145],[RTR:145],[AKH:46],[AKH:46],[AKH:46],[AKH:46],[AKH:57],[AKH:57],[AKH:57],[AKH:57],[IKO:59],[IKO:59],[IKO:59],[IKO:59],[IKO:217],[IKO:217],[IKO:217],[IKO:217],[AKH:8],[AKH:8],[AKH:8],[AKH:8],[IKO:319],[IKO:319],[IKO:319],[IKO:319],[ZNR:266],[RNA:251],[DOM:247],[DOM:247],[ELD:242],[ELD:242],[ZNR:269],[ZNR:269],[ZNR:269],[IKO:251],[IKO:251],[IKO:251],[GRN:254],[GRN:254],[GRN:254],[GRN:254],[AKH:245],[AKH:245],[AKH:245],[AKH:245],[XLN:255],[XLN:255],[XLN:255],[XLN:255])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([IKO:233],[XLN:34],[XLN:34],[EMN:13],[EMN:13],[WAR:193],[WAR:193],[THB:214],[THB:214],[THS:15],[THS:15],[ELD:58],[ELD:58],[THB:237],[THB:237])
