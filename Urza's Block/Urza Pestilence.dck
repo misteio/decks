@@ -1,0 +1,26 @@
+3 [USG:320] Drifting Meadow
+7 [ZNR:266] Plains
+2 [USG:323] Polluted Mire
+12 [ZNR:272] Swamp
+1 [CHK:102] Befoul
+1 [M14:91] Corrupt
+2 [ZNR:10] Disenchant
+2 [USG:135] Expunge
+2 [USG:18] Humble
+1 [USG:22] Opal Acrolith
+1 [10E:33*] Pariah
+4 [6ED:149] Pestilence
+2 [USG:36] Rune of Protection: Black
+1 [USG:156] Sicken
+2 [8ED:318] Urza's Armor
+1 [9ED:55] Worship
+1 [USG:118] Blood Vassal
+3 [ONS:25] Disciple of Grace
+1 [USG:136] Flesh Reaver
+1 [9ED:40] Sanctum Guardian
+1 [USG:51] Silent Attendant
+3 [USG:163] Unworthy Dead
+3 [USG:54] Voice of Grace
+3 [USG:315] Wall of Junk
+LAYOUT MAIN:(1,1)(NONE,false,50)|([USG:320],[USG:320],[USG:320],[ZNR:266],[CHK:102],[M14:91],[ZNR:10],[ZNR:10],[USG:135],[USG:135],[USG:18],[USG:18],[USG:22],[10E:33*],[6ED:149],[6ED:149],[6ED:149],[6ED:149],[USG:36],[USG:36],[USG:156],[8ED:318],[8ED:318],[9ED:55],[USG:118],[ONS:25],[ONS:25],[ONS:25],[USG:136],[9ED:40],[USG:51],[USG:163],[USG:163],[USG:163],[USG:54],[USG:54],[USG:54],[USG:315],[USG:315],[USG:315],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[USG:323],[USG:323],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

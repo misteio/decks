@@ -1,0 +1,27 @@
+4 [7ED:143] Infernal Contract
+4 [MIR:231] Natural Balance
+3 [6ED:89] Prosperity
+1 [5ED:156] Drain Life
+4 [TMP:76] Meditate
+4 [VIS:34] Impulse
+4 [6ED:161] Vampiric Tutor
+1 [7ED:88] Memory Lapse
+2 [6ED:87] Power Sink
+2 [WTH:1] Abeyance
+4 [VIS:137] Squandered Resources
+4 [MIR:258] Cadaverous Bloom
+4 [8ED:322] City of Brass
+4 [TSB:119] Gemstone Mine
+5 [ZNR:269] Island
+5 [ZNR:272] Swamp
+4 [ZNR:278] Forest
+1 [ZNR:266] Plains
+SB: 2 [WTH:1] Abeyance
+SB: 4 [6ED:60] Chill
+SB: 1 [VIS:102] City of Solitude
+SB: 1 [VIS:104] Elephant Grass
+SB: 2 [VIS:106] Emerald Charm
+SB: 3 [6ED:122] Dread of Night
+SB: 2 [5ED:262] Pyroblast
+LAYOUT MAIN:(1,1)(NONE,false,50)|([7ED:143],[7ED:143],[7ED:143],[7ED:143],[MIR:231],[MIR:231],[MIR:231],[MIR:231],[6ED:89],[6ED:89],[6ED:89],[5ED:156],[TMP:76],[TMP:76],[TMP:76],[TMP:76],[VIS:34],[VIS:34],[VIS:34],[VIS:34],[6ED:161],[6ED:161],[6ED:161],[6ED:161],[7ED:88],[6ED:87],[6ED:87],[WTH:1],[WTH:1],[VIS:137],[VIS:137],[VIS:137],[VIS:137],[MIR:258],[MIR:258],[MIR:258],[MIR:258],[8ED:322],[8ED:322],[8ED:322],[8ED:322],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:266])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([WTH:1],[WTH:1],[6ED:60],[6ED:60],[6ED:60],[6ED:60],[VIS:102],[VIS:104],[VIS:106],[VIS:106],[6ED:122],[6ED:122],[6ED:122],[5ED:262],[5ED:262])

@@ -1,0 +1,26 @@
+3 [USG:85] Morphling
+3 [UDS:134] Masticore
+1 [ULG:38] Palinchron
+2 [THS:38] Annul
+4 [ULG:36] Miscalculation
+4 [7ED:67] Counterspell
+1 [M21:63] Rewind
+2 [MMQ:108] Thwart
+3 [USG:100] Stroke of Genius
+4 [ULG:126] Grim Monolith
+3 [UDS:136] Powder Keg
+4 [UDS:50] Treachery
+2 [MMQ:316] Dust Bowl
+2 [10E:351*] Faerie Conclave
+4 [MMQ:324] Rishadan Port
+18 [ZNR:269] Island
+SB: 2 [THS:38] Annul
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [M21:63] Rewind
+SB: 1 [UDS:134] Masticore
+SB: 3 [NEM:42] Seal of Removal
+SB: 2 [BOK:47] Quash
+SB: 3 [NEM:48] Submerge
+SB: 2 [UDS:137] Scrying Glass
+LAYOUT MAIN:(1,1)(NONE,false,50)|([USG:85],[USG:85],[USG:85],[UDS:134],[UDS:134],[UDS:134],[ULG:38],[THS:38],[THS:38],[ULG:36],[ULG:36],[ULG:36],[ULG:36],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[M21:63],[MMQ:108],[MMQ:108],[USG:100],[USG:100],[USG:100],[ULG:126],[ULG:126],[ULG:126],[ULG:126],[UDS:136],[UDS:136],[UDS:136],[UDS:50],[UDS:50],[UDS:50],[UDS:50],[MMQ:316],[MMQ:316],[10E:351*],[10E:351*],[MMQ:324],[MMQ:324],[MMQ:324],[MMQ:324],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THS:38],[THS:38],[UDS:136],[M21:63],[UDS:134],[NEM:42],[NEM:42],[NEM:42],[BOK:47],[BOK:47],[NEM:48],[NEM:48],[NEM:48],[UDS:137],[UDS:137])

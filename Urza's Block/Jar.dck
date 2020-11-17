@@ -1,0 +1,22 @@
+4 [ULG:45] Tinker
+4 [USG:171] Yawgmoth's Will
+4 [MMQ:129] Dark Ritual
+2 [TMP:70] Intuition
+4 [ULG:129] Memory Jar
+4 [TMP:294] Lotus Petal
+4 [STH:138] Mox Diamond
+4 [5ED:388] Mana Vault
+3 [M10:104] Megrim
+4 [5ED:182] Necropotence
+4 [TMP:315] Ancient Tomb
+4 [8ED:322] City of Brass
+4 [EXO:143] City of Traitors
+4 [10E:362] Underground River
+7 [ZNR:272] Swamp
+SB: 3 [ZNR:10] Disenchant
+SB: 3 [M21:96] Duress
+SB: 2 [5ED:262] Pyroblast
+SB: 3 [TMP:330] Wasteland
+SB: 4 [9ED:293] Defense Grid
+LAYOUT MAIN:(1,1)(NONE,false,50)|([ULG:45],[ULG:45],[ULG:45],[ULG:45],[USG:171],[USG:171],[USG:171],[USG:171],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[TMP:70],[TMP:70],[ULG:129],[ULG:129],[ULG:129],[ULG:129],[TMP:294],[TMP:294],[TMP:294],[TMP:294],[STH:138],[STH:138],[STH:138],[STH:138],[5ED:388],[5ED:388],[5ED:388],[5ED:388],[M10:104],[M10:104],[M10:104],[5ED:182],[5ED:182],[5ED:182],[5ED:182],[TMP:315],[TMP:315],[TMP:315],[TMP:315],[8ED:322],[8ED:322],[8ED:322],[8ED:322],[EXO:143],[EXO:143],[EXO:143],[EXO:143],[10E:362],[10E:362],[10E:362],[10E:362],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:10],[ZNR:10],[ZNR:10],[M21:96],[M21:96],[M21:96],[5ED:262],[5ED:262],[TMP:330],[TMP:330],[TMP:330],[9ED:293],[9ED:293],[9ED:293],[9ED:293])

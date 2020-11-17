@@ -1,0 +1,29 @@
+4 [UDS:15] Replenish
+1 [10E:61] Wrath of God
+3 [6ED:19] Enlightened Tutor
+1 [6ED:83] Mystical Tutor
+3 [7ED:67] Counterspell
+4 [ULG:32] Frantic Search
+1 [7ED:316] Sky Diamond
+1 [USG:73] Energy Field
+1 [NEM:42] Seal of Removal
+1 [NEM:18] Seal of Cleansing
+4 [USG:61] Attunement
+4 [UDS:13] Opalescence
+4 [NEM:17] Parallax Wave
+3 [NEM:37] Parallax Tide
+4 [10E:347] Adarkar Wastes
+4 [MMQ:324] Rishadan Port
+9 [ZNR:269] Island
+8 [ZNR:266] Plains
+SB: 1 [NEM:18] Seal of Cleansing
+SB: 2 [10E:61] Wrath of God
+SB: 3 [KTK:9] Erase
+SB: 1 [9ED:10] Circle of Protection: Black
+SB: 1 [6ED:60] Chill
+SB: 2 [NEM:30] Daze
+SB: 2 [USG:83] Lilting Refrain
+SB: 2 [NEM:48] Submerge
+SB: 1 [6ED:278] Cursed Totem
+LAYOUT MAIN:(1,1)(NONE,false,50)|([UDS:15],[UDS:15],[UDS:15],[UDS:15],[10E:61],[6ED:19],[6ED:19],[6ED:19],[6ED:83],[7ED:67],[7ED:67],[7ED:67],[ULG:32],[ULG:32],[ULG:32],[ULG:32],[7ED:316],[USG:73],[NEM:42],[NEM:18],[USG:61],[USG:61],[USG:61],[USG:61],[UDS:13],[UDS:13],[UDS:13],[UDS:13],[NEM:17],[NEM:17],[NEM:17],[NEM:17],[NEM:37],[NEM:37],[NEM:37],[10E:347],[10E:347],[10E:347],[10E:347],[MMQ:324],[MMQ:324],[MMQ:324],[MMQ:324],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NEM:18],[10E:61],[10E:61],[KTK:9],[KTK:9],[KTK:9],[9ED:10],[6ED:60],[NEM:30],[NEM:30],[USG:83],[USG:83],[NEM:48],[NEM:48],[6ED:278])

@@ -1,0 +1,24 @@
+3 [UDS:134] Masticore
+4 [UDS:80] Covetous Dragon
+1 [USG:298] Karn, Silver Golem
+4 [9ED:228] Wildfire
+4 [TMP:281] Cursed Scroll
+4 [M11:219] Voltaic Key
+4 [7ED:296] Fire Diamond
+4 [ULG:126] Grim Monolith
+4 [UDS:139] Thran Dynamo
+4 [USG:310] Temporal Aperture
+2 [USG:318] Worn Powerstone
+2 [USG:302] Mishra's Helix
+3 [TMP:315] Ancient Tomb
+13 [ZNR:275] Mountain
+4 [EXO:143] City of Traitors
+SB: 1 [USG:302] Mishra's Helix
+SB: 2 [EXO:102] Shattering Pulse
+SB: 2 [ULG:89] Rack and Ruin
+SB: 4 [EXO:104] Spellshock
+SB: 2 [8ED:180] Boil
+SB: 3 [M10:134] Earthquake
+SB: 1 [USG:306] Phyrexian Processor
+LAYOUT MAIN:(1,1)(NONE,false,50)|([UDS:134],[UDS:134],[UDS:134],[UDS:80],[UDS:80],[UDS:80],[UDS:80],[USG:298],[9ED:228],[9ED:228],[9ED:228],[9ED:228],[TMP:281],[TMP:281],[TMP:281],[TMP:281],[M11:219],[M11:219],[M11:219],[M11:219],[7ED:296],[7ED:296],[7ED:296],[7ED:296],[ULG:126],[ULG:126],[ULG:126],[ULG:126],[UDS:139],[UDS:139],[UDS:139],[UDS:139],[USG:310],[USG:310],[USG:310],[USG:310],[USG:318],[USG:318],[USG:302],[USG:302],[TMP:315],[TMP:315],[TMP:315],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[EXO:143],[EXO:143],[EXO:143],[EXO:143])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([USG:302],[EXO:102],[EXO:102],[ULG:89],[ULG:89],[EXO:104],[EXO:104],[EXO:104],[EXO:104],[8ED:180],[8ED:180],[M10:134],[M10:134],[M10:134],[USG:306])

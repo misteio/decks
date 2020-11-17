@@ -1,0 +1,27 @@
+3 [8ED:242] Elvish Lyrist
+4 [M19:314] Llanowar Elves
+4 [USG:269] Pouncing Jaguar
+2 [6ED:260] Uktabi Orangutan
+4 [USG:231] Albino Troll
+4 [ZEN:180] River Boa
+4 [USG:284] Wild Dogs
+1 [M12:186] Overrun
+4 [WAR:162] Giant Growth
+4 [TMP:281] Cursed Scroll
+4 [M13:185] Rancor
+4 [USG:321] Gaea's Cradle
+2 [10E:361*] Treetop Village
+3 [TMP:330] Wasteland
+13 [ZNR:278] Forest
+SB: 1 [TMP:330] Wasteland
+SB: 1 [M12:186] Overrun
+SB: 2 [6ED:260] Uktabi Orangutan
+SB: 2 [10E:292] Root Maze
+SB: 2 [7ED:235] Compost
+SB: 1 [STH:104] Constant Mists
+SB: 1 [ULG:111] Repopulate
+SB: 2 [8ED:237] Choke
+SB: 1 [UDS:140] Thran Foundry
+SB: 2 [UDS:134] Masticore
+LAYOUT MAIN:(1,1)(NONE,false,50)|([8ED:242],[8ED:242],[8ED:242],[M19:314],[M19:314],[M19:314],[M19:314],[USG:269],[USG:269],[USG:269],[USG:269],[6ED:260],[6ED:260],[USG:231],[USG:231],[USG:231],[USG:231],[ZEN:180],[ZEN:180],[ZEN:180],[ZEN:180],[USG:284],[USG:284],[USG:284],[USG:284],[M12:186],[WAR:162],[WAR:162],[WAR:162],[WAR:162],[TMP:281],[TMP:281],[TMP:281],[TMP:281],[M13:185],[M13:185],[M13:185],[M13:185],[USG:321],[USG:321],[USG:321],[USG:321],[10E:361*],[10E:361*],[TMP:330],[TMP:330],[TMP:330],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMP:330],[M12:186],[6ED:260],[6ED:260],[10E:292],[10E:292],[7ED:235],[7ED:235],[STH:104],[ULG:111],[8ED:237],[8ED:237],[UDS:140],[UDS:134],[UDS:134])

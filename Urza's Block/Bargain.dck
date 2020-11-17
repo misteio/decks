@@ -1,0 +1,24 @@
+4 [UDS:1] Academy Rector
+4 [USG:157] Skirge Familiar
+2 [USG:171] Yawgmoth's Will
+4 [10E:179] Soul Feast
+4 [MMQ:129] Dark Ritual
+4 [6ED:161] Vampiric Tutor
+3 [MMQ:42] Renounce
+3 [M11:219] Voltaic Key
+4 [ULG:126] Grim Monolith
+3 [MMQ:313] Tooth of Ramos
+3 [UDS:75] Yawgmoth's Bargain
+4 [MMQ:322] Peat Bog
+4 [USG:322] Phyrexian Tower
+3 [MMQ:323] Remote Farm
+5 [ZNR:266] Plains
+6 [ZNR:272] Swamp
+SB: 1 [9ED:11] Circle of Protection: Red
+SB: 2 [ZNR:10] Disenchant
+SB: 4 [M21:96] Duress
+SB: 3 [6ED:148] Perish
+SB: 4 [UDS:65] Phyrexian Negator
+SB: 1 [NEM:58] Massacre
+LAYOUT MAIN:(1,1)(NONE,false,50)|([UDS:1],[UDS:1],[UDS:1],[UDS:1],[USG:157],[USG:157],[USG:157],[USG:157],[USG:171],[USG:171],[10E:179],[10E:179],[10E:179],[10E:179],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[6ED:161],[6ED:161],[6ED:161],[6ED:161],[MMQ:42],[MMQ:42],[MMQ:42],[M11:219],[M11:219],[M11:219],[ULG:126],[ULG:126],[ULG:126],[ULG:126],[MMQ:313],[MMQ:313],[MMQ:313],[UDS:75],[UDS:75],[UDS:75],[MMQ:322],[MMQ:322],[MMQ:322],[MMQ:322],[USG:322],[USG:322],[USG:322],[USG:322],[MMQ:323],[MMQ:323],[MMQ:323],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([9ED:11],[ZNR:10],[ZNR:10],[M21:96],[M21:96],[M21:96],[M21:96],[6ED:148],[6ED:148],[6ED:148],[UDS:65],[UDS:65],[UDS:65],[UDS:65],[NEM:58])

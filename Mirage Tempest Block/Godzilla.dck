@@ -1,0 +1,27 @@
+4 [10E:149] Hidden Horror
+4 [WTH:43] Merfolk Traders
+2 [6ED:145] Necrosavant
+2 [STH:129] Sliver Queen
+4 [DOM:187] Verdant Force
+3 [M20:335] Shivan Dragon
+1 [TMP:142] Living Death
+4 [MMQ:129] Dark Ritual
+4 [M12:63] Mana Leak
+4 [WTH:101] Firestorm
+4 [5ED:140] Animate Dead
+4 [VIS:64] Necromancy
+4 [8ED:322] City of Brass
+4 [TSB:119] Gemstone Mine
+1 [ZNR:269] Island
+2 [SHM:278] Reflecting Pool
+3 [10E:359] Sulfurous Springs
+1 [ZNR:272] Swamp
+3 [10E:362] Underground River
+2 [VIS:167] Undiscovered Paradise
+SB: 4 [6ED:122] Dread of Night
+SB: 2 [6ED:260] Uktabi Orangutan
+SB: 2 [5ED:94] Hydroblast
+SB: 3 [MIR:245] Tranquil Domain
+SB: 4 [5ED:262] Pyroblast
+LAYOUT MAIN:(1,1)(NONE,false,50)|([10E:149],[10E:149],[10E:149],[10E:149],[WTH:43],[WTH:43],[WTH:43],[WTH:43],[6ED:145],[6ED:145],[STH:129],[STH:129],[DOM:187],[DOM:187],[DOM:187],[DOM:187],[M20:335],[M20:335],[M20:335],[TMP:142],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[M12:63],[M12:63],[M12:63],[M12:63],[WTH:101],[WTH:101],[WTH:101],[WTH:101],[5ED:140],[5ED:140],[5ED:140],[5ED:140],[VIS:64],[VIS:64],[VIS:64],[VIS:64],[8ED:322],[8ED:322],[8ED:322],[8ED:322],[TSB:119],[TSB:119],[TSB:119],[TSB:119],[ZNR:269],[SHM:278],[SHM:278],[10E:359],[10E:359],[10E:359],[ZNR:272],[10E:362],[10E:362],[10E:362],[VIS:167],[VIS:167])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([6ED:122],[6ED:122],[6ED:122],[6ED:122],[6ED:260],[6ED:260],[5ED:94],[5ED:94],[MIR:245],[MIR:245],[MIR:245],[5ED:262],[5ED:262],[5ED:262],[5ED:262])

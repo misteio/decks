@@ -1,0 +1,23 @@
+4 [M10:125] Ball Lightning
+2 [WTH:105] Goblin Vandal
+4 [TMP:183] Jackal Pup
+4 [10E:219] Mogg Fanatic
+2 [M13:143] Mogg Flunkies
+1 [9ED:225] Viashino Sandstalker
+4 [TMP:173] Fireslinger
+2 [8ED:193] Hammer of Bogardan
+4 [VIS:79] Fireblast
+4 [M12:146] Incinerate
+4 [M21:159] Shock
+4 [TMP:281] Cursed Scroll
+17 [ZNR:275] Mountain
+4 [TMP:330] Wasteland
+SB: 3 [10E:312] Bottle Gnomes
+SB: 2 [MIR:169] Dwarven Miner
+SB: 2 [WTH:98] Dwarven Thaumaturgist
+SB: 1 [7ED:182] Final Fortune
+SB: 1 [WTH:101] Firestorm
+SB: 4 [5ED:262] Pyroblast
+SB: 2 [EXO:102] Shattering Pulse
+LAYOUT MAIN:(1,1)(NONE,false,50)|([M10:125],[M10:125],[M10:125],[M10:125],[WTH:105],[WTH:105],[TMP:183],[TMP:183],[TMP:183],[TMP:183],[10E:219],[10E:219],[10E:219],[10E:219],[M13:143],[M13:143],[9ED:225],[TMP:173],[TMP:173],[TMP:173],[TMP:173],[8ED:193],[8ED:193],[VIS:79],[VIS:79],[VIS:79],[VIS:79],[M12:146],[M12:146],[M12:146],[M12:146],[M21:159],[M21:159],[M21:159],[M21:159],[TMP:281],[TMP:281],[TMP:281],[TMP:281],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[TMP:330],[TMP:330],[TMP:330],[TMP:330])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([10E:312],[10E:312],[10E:312],[MIR:169],[MIR:169],[WTH:98],[WTH:98],[7ED:182],[WTH:101],[5ED:262],[5ED:262],[5ED:262],[5ED:262],[EXO:102],[EXO:102])

@@ -1,0 +1,22 @@
+1 [VIS:41] Rainbow Efreet
+4 [7ED:67] Counterspell
+4 [TMP:58] Dismiss
+2 [M15:51] Dissipate
+3 [EXO:35] Forbid
+4 [7ED:76] Force Spike
+4 [VIS:34] Impulse
+3 [M12:63] Mana Leak
+1 [7ED:88] Memory Lapse
+4 [TSB:35] Whispers of the Muse
+4 [5ED:391] Nevinyrral's Disk
+18 [ZNR:269] Island
+4 [WWK:140] Quicksand
+4 [MRD:284] Stalking Stones
+SB: 2 [TMP:55] Capsize
+SB: 1 [TMP:290] Grindstone
+SB: 4 [5ED:94] Hydroblast
+SB: 2 [10E:344] Steel Golem
+SB: 4 [TMP:330] Wasteland
+SB: 2 [MIR:94] Suq'Ata Firewalker
+LAYOUT MAIN:(1,1)(NONE,false,50)|([VIS:41],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[TMP:58],[TMP:58],[TMP:58],[TMP:58],[M15:51],[M15:51],[EXO:35],[EXO:35],[EXO:35],[7ED:76],[7ED:76],[7ED:76],[7ED:76],[VIS:34],[VIS:34],[VIS:34],[VIS:34],[M12:63],[M12:63],[M12:63],[7ED:88],[TSB:35],[TSB:35],[TSB:35],[TSB:35],[5ED:391],[5ED:391],[5ED:391],[5ED:391],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[WWK:140],[WWK:140],[WWK:140],[WWK:140],[MRD:284],[MRD:284],[MRD:284],[MRD:284])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TMP:55],[TMP:55],[TMP:290],[5ED:94],[5ED:94],[5ED:94],[5ED:94],[10E:344],[10E:344],[TMP:330],[TMP:330],[TMP:330],[TMP:330],[MIR:94],[MIR:94])

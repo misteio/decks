@@ -1,0 +1,22 @@
+4 [TSB:55] Avalanche Riders
+4 [TMP:183] Jackal Pup
+4 [10E:219] Mogg Fanatic
+3 [TMP:173] Fireslinger
+2 [KTK:97] Arc Lightning
+4 [9ED:221] Stone Rain
+3 [8ED:193] Hammer of Bogardan
+4 [7ED:207] Pillage
+4 [M21:159] Shock
+4 [TMP:281] Cursed Scroll
+2 [TMP:315] Ancient Tomb
+3 [10E:353*] Ghitu Encampment
+4 [TMP:330] Wasteland
+15 [ZNR:275] Mountain
+SB: 1 [KTK:97] Arc Lightning
+SB: 4 [USG:211] Scald
+SB: 2 [EXO:102] Shattering Pulse
+SB: 2 [EXO:83] Flowstone Flood
+SB: 4 [UDS:140] Thran Foundry
+SB: 2 [UDS:134] Masticore
+LAYOUT MAIN:(1,1)(NONE,false,50)|([TSB:55],[TSB:55],[TSB:55],[TSB:55],[TMP:183],[TMP:183],[TMP:183],[TMP:183],[10E:219],[10E:219],[10E:219],[10E:219],[TMP:173],[TMP:173],[TMP:173],[KTK:97],[KTK:97],[9ED:221],[9ED:221],[9ED:221],[9ED:221],[8ED:193],[8ED:193],[8ED:193],[7ED:207],[7ED:207],[7ED:207],[7ED:207],[M21:159],[M21:159],[M21:159],[M21:159],[TMP:281],[TMP:281],[TMP:281],[TMP:281],[TMP:315],[TMP:315],[10E:353*],[10E:353*],[10E:353*],[TMP:330],[TMP:330],[TMP:330],[TMP:330],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275],[ZNR:275])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KTK:97],[USG:211],[USG:211],[USG:211],[USG:211],[EXO:102],[EXO:102],[EXO:83],[EXO:83],[UDS:140],[UDS:140],[UDS:140],[UDS:140],[UDS:134],[UDS:134])

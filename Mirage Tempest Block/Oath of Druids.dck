@@ -1,0 +1,29 @@
+2 [AVR:5] Archangel
+2 [EXO:3] Cataclysm
+2 [KLD:150] Creeping Mold
+4 [DOM:161] Gaea's Blessing
+3 [7ED:16] Gerrard's Wisdom
+4 [ISD:196] Mulch
+4 [10E:61] Wrath of God
+2 [ZNR:10] Disenchant
+2 [6ED:19] Enlightened Tutor
+4 [TMP:308] Scroll Rack
+1 [10E:6] Aura of Silence
+4 [EXO:115] Oath of Druids
+4 [10E:349] Brushland
+7 [ZNR:278] Forest
+4 [MIR:327] Grasslands
+7 [ZNR:266] Plains
+2 [WWK:140] Quicksand
+2 [TMP:330] Wasteland
+SB: 2 [ZNR:10] Disenchant
+SB: 1 [7ED:16] Gerrard's Wisdom
+SB: 4 [WTH:1] Abeyance
+SB: 2 [6ED:4] Armageddon
+SB: 1 [8ED:237] Choke
+SB: 1 [9ED:11] Circle of Protection: Red
+SB: 1 [VIS:104] Elephant Grass
+SB: 1 [VIS:106] Emerald Charm
+SB: 2 [9ED:301] Jester's Cap
+LAYOUT MAIN:(1,1)(NONE,false,50)|([AVR:5],[AVR:5],[EXO:3],[EXO:3],[KLD:150],[KLD:150],[DOM:161],[DOM:161],[DOM:161],[DOM:161],[7ED:16],[7ED:16],[7ED:16],[ISD:196],[ISD:196],[ISD:196],[ISD:196],[10E:61],[10E:61],[10E:61],[10E:61],[ZNR:10],[ZNR:10],[6ED:19],[6ED:19],[TMP:308],[TMP:308],[TMP:308],[TMP:308],[10E:6],[EXO:115],[EXO:115],[EXO:115],[EXO:115],[10E:349],[10E:349],[10E:349],[10E:349],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[ZNR:278],[MIR:327],[MIR:327],[MIR:327],[MIR:327],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[ZNR:266],[WWK:140],[WWK:140],[TMP:330],[TMP:330])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ZNR:10],[ZNR:10],[7ED:16],[WTH:1],[WTH:1],[WTH:1],[WTH:1],[6ED:4],[6ED:4],[8ED:237],[9ED:11],[VIS:104],[VIS:106],[9ED:301],[9ED:301])

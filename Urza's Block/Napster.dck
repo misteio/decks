@@ -1,0 +1,34 @@
+3 [USG:158] Skittering Skirge
+2 [UDS:65] Phyrexian Negator
+2 [UDS:70] Skittering Horror
+1 [MMQ:166] Thrashing Wumpus
+4 [USG:171] Yawgmoth's Will
+4 [M21:96] Duress
+4 [8ED:171] Vicious Hunger
+1 [6ED:148] Perish
+2 [TSB:48] Stupor
+2 [MMQ:168] Unmask
+1 [BOK:65] Eradicate
+1 [NEM:58] Massacre
+1 [9ED:151] Persecute
+4 [MMQ:129] Dark Ritual
+4 [6ED:161] Vampiric Tutor
+1 [7ED:133] Engineered Plague
+2 [MMQ:316] Dust Bowl
+4 [MMQ:324] Rishadan Port
+2 [10E:358*] Spawning Pool
+15 [ZNR:272] Swamp
+SB: 1 [MMQ:316] Dust Bowl
+SB: 2 [7ED:133] Engineered Plague
+SB: 1 [6ED:148] Perish
+SB: 2 [UDS:65] Phyrexian Negator
+SB: 1 [TSB:48] Stupor
+SB: 1 [MMQ:168] Unmask
+SB: 1 [BOK:65] Eradicate
+SB: 1 [NEM:58] Massacre
+SB: 2 [UDS:67] Rapid Decay
+SB: 1 [UDS:136] Powder Keg
+SB: 1 [ULG:133] Thran Lens
+SB: 1 [USG:306] Phyrexian Processor
+LAYOUT MAIN:(1,1)(NONE,false,50)|([USG:158],[USG:158],[USG:158],[UDS:65],[UDS:65],[UDS:70],[UDS:70],[MMQ:166],[USG:171],[USG:171],[USG:171],[USG:171],[M21:96],[M21:96],[M21:96],[M21:96],[8ED:171],[8ED:171],[8ED:171],[8ED:171],[6ED:148],[TSB:48],[TSB:48],[MMQ:168],[MMQ:168],[BOK:65],[NEM:58],[9ED:151],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[6ED:161],[6ED:161],[6ED:161],[6ED:161],[7ED:133],[MMQ:316],[MMQ:316],[MMQ:324],[MMQ:324],[MMQ:324],[MMQ:324],[10E:358*],[10E:358*],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272],[ZNR:272])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([MMQ:316],[7ED:133],[7ED:133],[6ED:148],[UDS:65],[UDS:65],[TSB:48],[MMQ:168],[BOK:65],[NEM:58],[UDS:67],[UDS:67],[UDS:136],[ULG:133],[USG:306])

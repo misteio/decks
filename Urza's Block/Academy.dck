@@ -1,0 +1,20 @@
+4 [USG:111] Windfall
+4 [USG:103] Time Spiral
+3 [TMP:70] Intuition
+4 [USG:100] Stroke of Genius
+4 [TMP:294] Lotus Petal
+4 [STH:138] Mox Diamond
+4 [5ED:388] Mana Vault
+4 [M11:219] Voltaic Key
+3 [TMP:308] Scroll Rack
+3 [EXO:40] Mind Over Matter
+4 [USG:330] Tolarian Academy
+15 [ZNR:269] Island
+4 [TMP:315] Ancient Tomb
+SB: 2 [6ED:60] Chill
+SB: 4 [7ED:67] Counterspell
+SB: 2 [USG:105] Turnabout
+SB: 3 [TMP:55] Capsize
+SB: 4 [TMP:330] Wasteland
+LAYOUT MAIN:(1,1)(NONE,false,50)|([USG:111],[USG:111],[USG:111],[USG:111],[USG:103],[USG:103],[USG:103],[USG:103],[TMP:70],[TMP:70],[TMP:70],[USG:100],[USG:100],[USG:100],[USG:100],[TMP:294],[TMP:294],[TMP:294],[TMP:294],[STH:138],[STH:138],[STH:138],[STH:138],[5ED:388],[5ED:388],[5ED:388],[5ED:388],[M11:219],[M11:219],[M11:219],[M11:219],[TMP:308],[TMP:308],[TMP:308],[EXO:40],[EXO:40],[EXO:40],[USG:330],[USG:330],[USG:330],[USG:330],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[ZNR:269],[TMP:315],[TMP:315],[TMP:315],[TMP:315])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([6ED:60],[6ED:60],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[USG:105],[USG:105],[TMP:55],[TMP:55],[TMP:55],[TMP:330],[TMP:330],[TMP:330],[TMP:330])
